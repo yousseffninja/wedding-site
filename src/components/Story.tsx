@@ -6,7 +6,7 @@ const MILESTONES = [
   {
     year: "2019",
     title: "Where our story began",
-    text: "A mutual friend's gathering in Cairo — a quiet hello that turned into hours of conversation and an unexpected spark.",
+    text: "A mutual friend's gathering in Cairo a quiet hello that turned into hours of conversation and an unexpected spark.",
   },
   {
     year: "2021",
@@ -16,7 +16,7 @@ const MILESTONES = [
   {
     year: "2023",
     title: "The question, at sunset",
-    text: "Omar asked, overlooking the Giza skyline as the sky turned gold. Layla said yes before he finished the sentence.",
+    text: "Omar asked, overlooking the Giza skyline as the sky turned gold. Yasmin said yes before he finished the sentence.",
   },
   {
     year: "2027",

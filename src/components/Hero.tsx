@@ -68,7 +68,7 @@ export default function Hero() {
       <div className="relative z-10 flex flex-col items-center text-center px-6">
         <p className="eyebrow text-gold-soft mb-6">The Wedding Of</p>
         <h1 className="font-script italic text-[3.6rem] sm:text-[5.5rem] md:text-[7rem] leading-[0.95] text-cream">
-          Layla <span className="text-gold-soft">&amp;</span> Omar
+          Yasmin <span className="text-gold-soft">&amp;</span> Omar
         </h1>
         <div className="mt-8 flex items-center gap-4 text-cream/85 font-utility text-xs sm:text-sm uppercase tracking-[0.25em]">
           <span>October 9, 2027</span>

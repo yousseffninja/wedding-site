@@ -12,7 +12,7 @@ import "@fontsource/jost/500.css";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Layla & Omar — October 9, 2027",
+  title: "Yasmin & Omar — October 9, 2027",
   description:
     "Join us as we begin our forever. Wedding details, our story, and everything you need for the celebration.",
 };

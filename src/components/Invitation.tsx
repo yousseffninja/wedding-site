@@ -19,7 +19,7 @@ export default function Invitation() {
           With all our love
         </p>
         <p className="font-script italic text-2xl text-ink mt-2">
-          Layla &amp; Omar
+          Yasmin &amp; Omar
         </p>
       </div>
     </section>

@@ -14,7 +14,7 @@ export default function InfoGrid() {
             </h3>
             <p className="font-body text-cream/75 leading-relaxed">
               The ceremony begins at 4:00 PM sharp. We kindly ask guests to
-              arrive by 3:30 PM to get settled before Layla walks down the
+              arrive by 3:30 PM to get settled before Yasmin walks down the
               aisle.
             </p>
           </div>
